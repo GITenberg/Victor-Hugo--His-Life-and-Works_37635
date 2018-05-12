@@ -1,0 +1,29 @@
+_repo: Victor-Hugo--His-Life-and-Works_37635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, George Barnett
+    alias: Smith, G. Barnett (George Barnett)
+    birthdate: 1841
+    deathdate: 1909
+    gutenberg_agent_id: '38965'
+    url: http://www.gutenberg.org/2009/agents/38965
+description: ''
+gutenberg_issued: '2011-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37635'
+  lccn: '12022436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 19th century -- Biography'
+- !lcc 'PQ'
+- !lcsh 'Hugo, Victor, 1802-1885'
+title: 'Victor Hugo: His Life and Work'
+url: http://www.gutenberg.org/ebooks/37635
